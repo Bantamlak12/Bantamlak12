@@ -25,7 +25,8 @@
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Ubuntu" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-<br/>
+<br>
+<br>
 
 ## Stats
 ![Bantamlak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bantamlak12&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=21)
