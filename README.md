@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bantamlak
+## Hi, I’m Bantamlak 👋
 - 👀 I’m interested in Machine Learning, and Computer and Network Security.
 - 🌱 I’m currently learning a Software Engineering Programe in alx_africa.
 - 💞️ I’m looking to collaborate on open source code projects.
