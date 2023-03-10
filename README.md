@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/bantamlak-tilahun-352514200"><img align="left" alt="C" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<br/>
+</br>
   
 - 👀 I’m interested in Machine Learning, and Computer and Network Security.
 - 🌱 I’m currently learning a Software Engineering Programme in alx_africa.
