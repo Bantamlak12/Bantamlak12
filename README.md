@@ -18,8 +18,6 @@
 <img align="left" alt="HTML5" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="Javascript" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
-
 <img align="left" alt="C" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img align="left" alt="git" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -28,7 +26,7 @@
 <br>
 <br>
 
-## Stats
+### Stats
 ![Bantamlak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bantamlak12&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=21)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bantamlak12&hide_title=true&hide_border=true&layout=compact&theme=tokyonight&line_height=21)
 
