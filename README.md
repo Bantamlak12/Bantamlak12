@@ -6,7 +6,7 @@
 <br>
   
   
-- 👀 I’m interested in Machine Learning, and Computer and Network Security.
+- 👀 I’m interested in Machine Learning, Deep Learning, Computer and Network Security.
 - 🌱 I’m currently learning a Software Engineering Programme in alx_africa.
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me: bantamlak29@gmail.com
