@@ -32,6 +32,5 @@
 ### Stats
 
 
-![Bantamlak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bantamlak12&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=21)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bantamlak12&hide_title=true&hide_border=true&layout=compact&theme=tokyonight&line_height=21)
+
 
