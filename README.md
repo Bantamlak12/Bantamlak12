@@ -1,30 +1,45 @@
-## Hi there, I’m Bantamlak 👋
+# 👋 Hi there, I'm Bantamlak Tilahun
 
-<a href="https://www.linkedin.com/in/bantamlak-tilahun-352514200"><img align="left" alt="C" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-<br>
-<br>
-  
-  
-- 👀 I’m interested in Machine Learning, Deep Learning, Computer and Network Security.
-- 🌱 I’m currently working as a backend developer at Go Digital Technology.
-- 💞️ I’m looking to collaborate on any projects.
-- 📫 How to reach me: bantamlak29@gmail.com
+🎯 **Software Engineer | Backend Developer | Python | JavaScript | TypeScript**
 
-### Languages and Tools💻 🌐
+I'm passionate about building scalable backend systems and exploring the realms of Machine Learning and Network Security.
 
-<img align="left" alt="C" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="CSS3" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="HTML5" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="Javascript" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Vim" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img align="left" alt="git" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="MySQL" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Linux" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Ubuntu" width="40px" style="padding-right:10px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-<br>
-<br>
-<br>
-<br>
-<br>
+- 🔭 Currently working as a freelancer and learning ProDev Backend and AWS Cloud Practitioner at **ALX Africa**.
+- 🌱 Exploring **Machine Learning**, **Deep Learning**, and **Computer & Network Security**
+- 🤝 Open to collaborating on impactful projects
+- 📫 Reach me at: [bantamlak29@gmail.com](mailto:bantamlak29@gmail.com)
+
+---
+
+## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
+
+![Bantamlak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bantamlak12&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bantamlak12&layout=compact&theme=default)
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [Portfolio Website](https://bantamlak-tilahun.vercel.app/)
+- 🐦 [Twitter](https://twitter.com/Bantamlak12)
+- 📧 [Email](mailto:bantamlak29@gmail.com)
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
