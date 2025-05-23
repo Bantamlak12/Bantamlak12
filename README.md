@@ -37,7 +37,7 @@ I'm passionate about building scalable backend systems and exploring the realms 
 ## 📫 Let's Connect
 
 - 🌐 [Portfolio Website](https://bantamlak-tilahun.vercel.app/)
-- 🐦 [Twitter](https://twitter.com/Bantamlak12)
+- 🐦 [Twitter](https://twitter.com/bante29)
 - 📧 [Email](mailto:bantamlak29@gmail.com)
 
 ---
